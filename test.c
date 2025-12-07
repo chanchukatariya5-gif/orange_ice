@@ -1,5 +1,4 @@
-#include <stdio.h>
+#include<st#include<std#include<st#include<st#include<st#include<st#include<st#include<st#include<st#include<stdio.h>
 int main(){
-printf("hello");
-}
-
+printf("we are charlie kirk");
+}}}}}}}}}
