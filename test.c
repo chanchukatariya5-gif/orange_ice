@@ -1,4 +1,3 @@
-#include<st#include<std#include<st#include<st#include<st#include<st#include<st#include<st#include<st#include<stdio.h>
-int main(){
-printf("we are charlie kirk");
-}}}}}}}}}
+manisha katariya
+iit2025275
+9617683969
